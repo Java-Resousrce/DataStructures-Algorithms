@@ -6,8 +6,8 @@ package com.tahvildari.java.searchingAlgo.Interval;
  */
 public class BinarySearch {
 
-    // This method search value in given sorted array , if value if equal to middle element
-    // return index; otherwise if value if greater of middle element it search for element in right
+    // This method search value in given sorted array , if value is equal to middle element
+    // return index of middle element; otherwise if value if greater of middle element it search for element in right
     // half of array , otherwise search for value in the left hand of array
     //paradigm:  Decrease and Conquer.
     static int binarySearch(int[] array, int leftIndex, int rightIndex, int value) {
