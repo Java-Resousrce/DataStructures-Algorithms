@@ -1,4 +1,4 @@
-package com.tahvildari.java.searchingAlgo.Interval;
+package com.tahvildari.java.searchingalgorithms.Interval;
 
 public class JumpSearch {
 

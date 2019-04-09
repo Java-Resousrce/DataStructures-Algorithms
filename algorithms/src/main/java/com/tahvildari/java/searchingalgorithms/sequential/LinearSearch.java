@@ -1,4 +1,4 @@
-package com.tahvildari.java.searchingAlgo.sequential;
+package com.tahvildari.java.searchingalgorithms.sequential;
 
 /**
  * The complexity of this algorithm is O(n) and it has less usage

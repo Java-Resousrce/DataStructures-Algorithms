@@ -1,4 +1,4 @@
-package com.tahvildari.java.searchingAlgo.Interval;
+package com.tahvildari.java.searchingalgorithms.Interval;
 
 /**
  * The auxiliary space of this algorithm  in recursive implementation is log(n)

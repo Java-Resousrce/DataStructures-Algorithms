@@ -1,4 +1,4 @@
-package com.tahvildari.java.searchingAlgo.Interval;
+package com.tahvildari.java.searchingalgorithms.Interval;
 
 // InterpolationSearch is used when the sorted algorithm contains uniformly distributed values
 // this is improvement of BinarySearch since in BinarySearch the algorithm analyze and divide

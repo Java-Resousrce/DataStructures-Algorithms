@@ -1,6 +1,6 @@
-package com.tahvildari.java.searchingAlgo.Interval;
+package com.tahvildari.java.searchingalgorithms.Interval;
 
-import static com.tahvildari.java.searchingAlgo.Interval.BinarySearch.binarySearch;
+import static com.tahvildari.java.searchingalgorithms.Interval.BinarySearch.binarySearch;
 
 public class ExponentialSearch {
 
